@@ -2,6 +2,7 @@
 
 
 
+
 > # O GOOGLE MEU NEGÓCIO VAI ACABAR EM 2023?
 
 
@@ -32,3 +33,4 @@ O Google ainda informa que mais mudanças serão compartilhadas nos próximos me
 
 
 Enquanto isso a gente continua por aqui dando vida à comunicação e ligado nas novidades do nosso querido [Markenting com as Melhores estrategias](https://www.afrentesolucoes.com.br/).
+Fale Com Especialistas!
