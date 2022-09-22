@@ -3,7 +3,9 @@
 
 
 
-> # O GOOGLE MEU NEGÓCIO VAI ACABAR EM 2023?
+ O GOOGLE MEU NEGÓCIO VAI ACABAR EM 2023?!
+ 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/Afrente-Solucoes/Google-Meu-negocio/main/QQQQQASSDD.PNG">
 
 
 Calma, o Google Meu Negócio, o glorioso Google Business não vai acabar, mas algumas coisinhas vão mudar sim. Se liga aqui que a gente vai falar rapidinho sobre isso para você ficar por dentro das novidades da plataforma.
