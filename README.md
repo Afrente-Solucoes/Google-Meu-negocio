@@ -16,7 +16,7 @@ O que é o Google Business, ou o Google Meu Negócio?
 É a ferramenta do Google que facilita que uma empresa seja encontrada na Rede de Pesquisa. É possível disponibilizar para o usuário informações como localização, horário de funcionamento, produtos, serviços, fotos e promoções. O Google Business é um dos principais funis de fluxo de visitação orgânica nos sites das empresas.
 
 E o que muda em 2022?
-1 – Como já frisamos, a principal mudança está na forma de se editar as informações, antes era necessário utilizar o app Google Meu Negócio para gerir as informações da empresa, em 2022 será possível gerir diretamente no Google Maps, o que pode economizar um tempo valioso e ajudar as empresas a sempre manterem suas informações atualizadas.
+1 – Como já frisamos, a principal mudança está na forma de se editar as informações, antes era necessário utilizar o app Google Meu Negócio para gerir as informações da empresa, em 2023 será possível gerir diretamente no Google Maps, o que pode economizar um tempo valioso e ajudar as empresas a sempre manterem suas informações atualizadas.
 
 2 – Será possível enviar mensagens diretamente aos clientes, aumentando a possibilidade de comunicação, proximidade e vendas.
 
